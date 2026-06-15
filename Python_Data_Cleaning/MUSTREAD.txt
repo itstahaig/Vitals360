@@ -1,0 +1,11 @@
+we had first imported a kaggle dataset of myfitbit official dataset 
+recorded from 30 individuals (stored in old folder)
+after that we changed the dataset that are currently available in this 
+folder
+clean_dataset.py cleans the raw dataset
+vitals360_raw_dataset.csv is the raw dataset
+vitals360_cleaned_data.csv is the cleaned dataset extracted when python 
+cleans the script
+Database Datasets folder contains the scripts and .csv files for each  
+table ... the .csv files were imported in thhe database after being run 
+via python scripts
